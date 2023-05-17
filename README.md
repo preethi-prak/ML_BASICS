@@ -1,2 +1,4 @@
-# ML_BASICS
-Covering the basic concepts in Machine Learning 
+# ML_Classification Tasks
+We cover the basics of Classifcaton tasks in Machine Learning 
+
+- Baseline Classifier
